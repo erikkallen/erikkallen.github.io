@@ -1,0 +1,14 @@
+# Site settings
+title: Erik Kallen
+#email: info@erikkallen.nl
+description: > # this means to ignore newlines until "baseurl:"
+  This is my personal site with random thoughts projects that make up my day.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://erikkallen.nl" # the base hostname & protocol for your site
+twitter_username: edeuxk
+github_username:  erikkallen
+googleplus_username: erikkallen
+linkedin_username: erikkallen
+
+# Build settings
+markdown: kramdown
