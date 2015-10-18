@@ -13,6 +13,8 @@ keybase_username: erikkallen
 collections:
     projects:
         output: true
+gems:
+  - jekyll-sitemap
 
 # Build settings
 markdown: kramdown
