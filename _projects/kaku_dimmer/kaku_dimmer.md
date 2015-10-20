@@ -1,6 +1,7 @@
 ---
 layout: project
 title: Wireless (Klik aan Klik uit) dimmer
+date: 2015-10-20
 ---
 I recently replaced the wall dimmer of my living room lighting with a wireless controlled version.
 This is all very nice but the only way to control the dimm factor is with a regular switch or remote.
