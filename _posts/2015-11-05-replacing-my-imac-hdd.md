@@ -16,7 +16,7 @@ Well a couple of years later and that all changes so. First thing I had to do wa
 The kind people form iFixit also included a tool for breaking the old adhesive without damaging the iMac.
 So following the guide I removed the screen by cutting away the adhesive usign th supplied tool, then got aout a set of old bank/discount cards and used them to pry the remaining adhesive away, and finally I could open the iMac.
 
-![opened imac](opened_imac.jpg)
+![opened imac](/images/opened_imac.jpg)
 
 Next I had to remove the left speaker (right on the image above) with two torx screws pop out the old hdd, and in with the new.
 
