@@ -56,6 +56,13 @@ img {
     vertical-align: middle;
 }
 
+/** Fix for static header **/
+:target:before {
+  content:"";
+  display:block;
+  height:100px; /* fixed header height*/
+  margin:-100px 0 0; /* negative fixed header height */
+}
 
 
 /**

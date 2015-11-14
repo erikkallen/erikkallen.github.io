@@ -95,9 +95,6 @@ I also tried to make some greensand, but unfortunately it failed, so I tried to 
 ![Melting setup](melting_setup.jpg){: .multiple-borders}
 *Melting setup*
 
-![Melting setup](melting_setup.jpg){: .multiple-borders}
-*Melting setup*
-
 ![All fired up](all_fired_up.jpg){: .multiple-borders}
 *All fired up*
 
@@ -110,3 +107,5 @@ I also tried to make some greensand, but unfortunately it failed, so I tried to 
 ### Conclusion
 
 Making a foundry is a lot of fun, it takes a while to get everything together but it is definitely worth it. I will have to improve my foundry refractory mix to make a bette lid, the progress will be posted on the site. Well for now this is it.
+
+*Last updated: {{page.updated}}*{: .page-updated}
