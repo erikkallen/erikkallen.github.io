@@ -23,7 +23,14 @@ body {
     -webkit-text-size-adjust: 100%;
 }
 
+@media print {
 
+    * { background: transparent !important;
+        color: #000 !important; /* Black prints faster: h5bp.com/s */
+        box-shadow: none !important;
+        text-shadow: none !important;}
+
+}
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
@@ -35,6 +42,10 @@ ul, ol, dl, figure,
     margin-bottom: $spacing-unit / 2;
 }
 
+p,
+h2,
+h3 {orphans: 3; /* http://css-tricks.com/almanac/properties/o/orphans/ */
+    widows: 3;  /* http://css-tricks.com/almanac/properties/w/widows/ */}
 
 
 /**
@@ -45,6 +56,13 @@ img {
     vertical-align: middle;
 }
 
+/** Fix for static header **/
+:target:before {
+  content:"";
+  display:block;
+  height:100px; /* fixed header height*/
+  margin:-100px 0 0; /* negative fixed header height */
+}
 
 
 /**

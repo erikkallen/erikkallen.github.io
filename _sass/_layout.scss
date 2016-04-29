@@ -36,12 +36,19 @@
     width: 100px;
 }
 
+.page-updated {
+    color: #ccc;
+    font-size: 12px
+}
+
 .multiple-borders {
-    border: 5px solid #222;
+    /*border: 5px solid #222;
     border-radius: 5px;
     margin-top: 15px;
     margin-bottom: 15px;
-    box-shadow: #222 2px 2px 30px;
+    box-shadow: #222 2px 2px 30px;*/
+    padding:1px;
+    border:1px solid #021a40;
 }
 
 .site-title {
@@ -70,6 +77,12 @@
     &:visited {
         color: $grey-color-dark;
     }
+}
+
+img + em {
+    font-weight: bolder;
+    display: flex;
+    text-align: center;
 }
 
 .site-nav {

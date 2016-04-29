@@ -2,15 +2,16 @@
 layout: project
 title: Backyard foundry
 date: 2015-10-20
+updated: 2015-11-14 13:18
 ---
 
 The story began when I stumbled upon a Youtube [video](https://www.youtube.com/watch?v=hHD10DjxM1g) from Grant Thompson (The King of Random) where he created his own backyard foundry.
 
 I immediately got excited and started to look for an excuse to build one of my own.
-Luckily this excuses was not but a few clicks away for someone had built a lathe by simply casting aluminium parts. The magical name in all this is David Gingery who has published a book explaining to make your ver own Gingery lathe.
+Luckily this excuse was but a few clicks away for someone had built a lathe by simply casting aluminum parts. The magical name in all this is David Gingery who has published a book explaining how to make your very own metal working lathe.
 
 So that takes care of the excuse to build the foundry so lets gets started.
-Because all the required materials en units used are different from the materials used in the video (I live in the Netherlands)  I decided to post my reciepe here for the lovely folks on the European side of the ocean.
+Because all the required materials en units used are different from the materials used in the video (I live in the Netherlands)  I decided to post my recipe here for the lovely folks on the European side of the ocean.
 
 
 ##Building the backyard foundry (overview)
@@ -73,10 +74,38 @@ Now for making the lid:
 And here she is: The completed foundry.
 
 ![Foundry complete](foundry_complete.jpg){: .multiple-borders}
+*Completed foundry*
+
 ![Foundry complete](adding_brickets.jpg){: .multiple-borders}
+*Adding the coal brickets*
+
 ![Foundry complete](soaking_the_brickets.jpg){: .multiple-borders}
+*Soaking the brickets with lighter fluid*
+
 ![Foundry complete](light_the_foundry.jpg){: .multiple-borders}
+*Light the foundry*
 
 ### The first pour
 
-Comming soon!
+So it was a sunny day in The Netherlands and I took advantage of it, by testing out my foundry.
+I had quite some aluminum lying around which I figured I would turn it into ingot's for now.
+
+I also tried to make some greensand, but unfortunately it failed, so I tried to cast something using lost foam method, which failed as well :(
+
+![Melting setup](melting_setup.jpg){: .multiple-borders}
+*Melting setup*
+
+![All fired up](all_fired_up.jpg){: .multiple-borders}
+*All fired up*
+
+![Broken Lid](broken_lid.jpg){: .multiple-borders}
+*Broken Lid*
+
+![Net result](net_result.jpg){: .multiple-borders}
+*Net result more than 1 kg!!*
+
+### Conclusion
+
+Making a foundry is a lot of fun, it takes a while to get everything together but it is definitely worth it. I will have to improve my foundry refractory mix to make a better lid, the progress will be posted on the site. Well for now this is it.
+
+*Last updated: {{page.updated}}*{: .page-updated}
