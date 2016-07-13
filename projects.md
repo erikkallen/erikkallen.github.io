@@ -3,6 +3,11 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
+![3D Printing](/images/3d_printing.png){: .project-image }[3D Printing](/projects/3d_printer/3d_printer.html)
+
+Making 3d objects a reality.
+
+<br style="clear:both;">
 ![Home automation](/images/home_automation.png){: .project-image }[Home automation](/projects/home_automation/home_automation.html)
 
 With this project I want to make my house more awesome.
