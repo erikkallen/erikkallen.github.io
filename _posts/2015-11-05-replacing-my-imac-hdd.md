@@ -24,5 +24,4 @@ Next I had to remove the left speaker (right on the image above) with two torx s
 
 Anyway after removing the remains of the old adhesive strips and sticking on the new I tested if everything worked and closed her up again.
 
-I now have a blazing fast pc again :D
-8AI^bLtHkqdNI!A1@N
+I now have a blazing fast pc again :smiley:

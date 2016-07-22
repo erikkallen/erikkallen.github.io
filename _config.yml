@@ -16,6 +16,7 @@ collections:
         output: true
 gems:
   - jekyll-sitemap
+  - jemoji
 
 # Build settings
 markdown: kramdown
