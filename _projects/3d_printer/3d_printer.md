@@ -12,7 +12,7 @@ thumbnail: /images/3d_printing.png
 
 ## My Printer's specs
 
-![My Printer](current_printer_setup.jpg){: .project-image-medium}
+![My Printer](printer_picture.jpg){: .project-image-medium}
 
 |||
 |------------------|-----------|
@@ -61,9 +61,14 @@ thumbnail: /images/3d_printing.png
 
 * I printed a replacement X-Idler with tensioning screw from MazaaFIN [X-Idler Thing](http://www.thingiverse.com/thing:1103976)
 
+![Corner piece](x_idler.jpg){: .project-image-medium}
+
+
 #### Y Carriage
 
 * I printed a replacement Y-Idler with tensioning screws from bunjatec [Y-Idler Thing](http://www.thingiverse.com/thing:1298757)
+
+![Corner piece](y_idler.jpg){: .project-image-medium}
 
 #### MK8 Fan air redirect for PETG
 
@@ -75,11 +80,12 @@ thumbnail: /images/3d_printing.png
 Most of my designs can be found on [Thingyverse](http://www.thingiverse.com/erikkallen/designs)
 I use Autodesk Fusion 360 for designing
 
-#### Some printed objects (not my designs):
+#### Some printed objects:
 
 [![Corner piece](corner_piece.jpg){: .project-image-medium}](http://www.thingiverse.com/thing:38277)
 [![X-Motor bracket](prusa_x_motor_bracket.jpg){: .project-image-medium}](http://www.thingiverse.com/thing:1103976)
-
+[![Prusa i3 rework X-Carriage](prusa_rework_x_carriage.jpg){: .project-image-medium}](http://www.thingiverse.com/thing:119616)
+![Front door number](front_door_number.jpg){: .project-image-medium}
 
 ## Settings
 
