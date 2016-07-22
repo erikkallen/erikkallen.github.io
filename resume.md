@@ -26,6 +26,7 @@ permalink: /resume/
 * Designing and programming embedded systems, porting existing code to embedded systems driver programming.
 * Knowledge of various operating systems like Linux, OS X, RTOS and Windows
 * Basic knowledge of hardware engineering (reading datasheets, SMD soldering, electrical components)
+* Experience with new technologies like [Lora](https://www.lora-alliance.org/) (designing and programming of lora node)
 
 ### Language skills
 * Fluent in Dutch and English both written and oral
@@ -47,7 +48,7 @@ permalink: /resume/
 * Applying sensor technology to real world applications.
 * I was responsible for adapting/creating the firmware on a high end network sound device.
 * Created the web interface and analysis software for a full spectrum radiation detector.
-* Taught embedded java and c classes at the local university in Assen (NL).
+* Taught embedded Java and C classes at the university (HIT) in Assen (NL).
 * Designed, developed and deployed remote monitoring system in Northern Saskatchewan  
 
 ### Co owner at Bazingalabs, Groningen (NL) — April 2011 - June 2014

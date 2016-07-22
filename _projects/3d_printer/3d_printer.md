@@ -2,21 +2,25 @@
 layout: project
 title: 3D Printer
 date: 2016-7-13 22:00
-updated: 2016-7-13 22:00
+updated: 2016-7-22 22:00
 ---
 
 * TOC
 {:toc}
 
-## My Printer
+## My Printer's specs
+
+![My Printer](current_printer_setup.jpg){: .project-image-medium}
 
 |||
-|------------|-----------|
-|Brand       | TronXY    |
-|Type        | Prusa i3  |
-|Extruder    | MK8       |
-|Heated bed  | yes       |
-|Firmware    | [Marlin](https://github.com/erikkallen/Marlin_tronxy)    |
+|------------------|-----------|
+| **Brand**        | TronXY    |
+| **Type**         | Prusa i3  |
+| **Extruder**     | MK8       |
+| **Heated bed**   | yes       |
+| **Firmware**     | [Marlin](https://github.com/erikkallen/Marlin_tronxy)    |
+| **HAL Sensor**   | PL-08N    |
+
 
 ## Filaments
 
@@ -40,7 +44,7 @@ updated: 2016-7-13 22:00
 
 ##### Purement antibacterial PLA white
 
-* Havent tried this yet will update as soon as I can
+* Haven't tried this yet will update as soon as I can
 * Print on Kapton tape, with heated bed at **? &deg;C**
 * Extruder temp: **? &deg;C**
 * Speed: **? mm/s&sup2;**
@@ -51,11 +55,11 @@ updated: 2016-7-13 22:00
 
 * I put a piece of cardboard under the heated bed which significantly improved the warmup time.
 
-#### X Carrage
+#### X Carriage
 
 * I printed a replacement X-Idler with tensioning screw from MazaaFIN [X-Idler Thing](http://www.thingiverse.com/thing:1103976)
 
-#### Y Carrage
+#### Y Carriage
 
 * I printed a replacement Y-Idler with tensioning screws from bunjatec [Y-Idler Thing](http://www.thingiverse.com/thing:1298757)
 
@@ -69,9 +73,17 @@ updated: 2016-7-13 22:00
 Most of my designs can be found on [Thingyverse](http://www.thingiverse.com/erikkallen/designs)
 I use Autodesk Fusion 360 for designing
 
+#### Some printed objects (not my designs):
+
+[![Corner piece](corner_piece.jpg){: .project-image-medium}](http://www.thingiverse.com/thing:38277)
+[![X-Motor bracket](prusa_x_motor_bracket.jpg){: .project-image-medium}](http://www.thingiverse.com/thing:1103976)
+
 
 ## Settings
 
 ### My Slic3r config
-
+<style type="text/css">
+  .gist-file
+  .gist-data {max-height: 500px;}
+</style>
 <script src="https://gist.github.com/erikkallen/1b010b535f7ad495977217d6f1963baa.js"></script>
