@@ -5,8 +5,6 @@ date:   2016-07-13 22:11:11
 categories: 3D printer Prusa i3 Tronxy
 ---
 
-### The story of my 3D Printer
-
 So I decided to buy a 3D printer kit from [Aliexpress](http://aliexpress.com) which is a great site for cheap stuff btw.
 
 My budget was about 200 Euro so I had to choose wisely, making a long story short I selected an Acrylic version of the Prusa i3 with automatic leveling 2 free spools of filament (0.25KG) and a free SD Card the brand name is TronXY.

@@ -3,7 +3,7 @@ title: Erik Kallen
 #email: info@erikkallen.nl
 description: > # this means to ignore newlines until "baseurl:"
   This is my personal site with random projects that make up my day aside from my job.
-  I have intersts in metal working, electronics, programming, backyard foundries and other cool stuff.
+  I have intersts in metal working, electronics, programming, backyard foundries 3D printing and other ways of tinkering.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://erikkallen.nl" # the base hostname & protocol for your site
 twitter_username: edeuxk
@@ -17,6 +17,8 @@ collections:
 gems:
   - jekyll-sitemap
   - jemoji
+  - jekyll-gist
 
 # Build settings
 markdown: kramdown
+excerpt_separator: <!--more-->

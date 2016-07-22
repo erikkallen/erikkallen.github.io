@@ -3,6 +3,8 @@ layout: project
 title: 3D Printer
 date: 2016-7-13 22:00
 updated: 2016-7-22 22:00
+description: Making 3d objects a reality.
+thumbnail: /images/3d_printing.png
 ---
 
 * TOC
@@ -24,7 +26,7 @@ updated: 2016-7-22 22:00
 
 ## Filaments
 
-##### Real PETG Translucent blue
+##### [Real&reg;](http://real-filament.com) Filament [PET-G](http://real-filament.com/pages/product-details?id=2) Translucent blue
 
 * Print on Kapton tape, with heated bed at **80 &deg;C**
 * Extruder temp: **235 &deg;C**
@@ -86,4 +88,4 @@ I use Autodesk Fusion 360 for designing
   .gist-file
   .gist-data {max-height: 500px;}
 </style>
-<script src="https://gist.github.com/erikkallen/1b010b535f7ad495977217d6f1963baa.js"></script>
+{% gist erikkallen/1b010b535f7ad495977217d6f1963baa %}
