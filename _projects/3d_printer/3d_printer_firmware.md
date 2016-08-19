@@ -13,5 +13,7 @@ sub_page: true
 
 [Marlin Tronxy](https://github.com/erikkallen/Marlin_tronxy) this is the firmware that came with my printer, it has auto calibration enabled (so it needs an Z-Probe) and is tuned for the Tronxy with auto calibration. It uses a 5 Key Analog keypad which is supported in this version of Marlin also I found the LCD pins differ form the original Marlin.
 
+More comming soon!
+
 
 [Back](3d_printer.html)
