@@ -7,22 +7,31 @@ description: Making 3d objects a reality.
 thumbnail: /images/3d_printing.png
 ---
 
+I just love 3D printing, I never thought that it would be so much fun, because we have a 3D printer at work but rarely use it, I never gave it too much attention.
+
+Now that I have my own printer it feels like I can make all the silly things I wanted to try or fiddle with but never felt like it was worth spending too much money one to have made.
+
+Also the fact that you can upgrade, repair, change fiddle and calibrate the device is very appealing to me
+
 * TOC
 {:toc}
 
 ## My Printer's specs
 
-![My Printer](printer_picture.jpg){: .project-image-medium}
+![My Printer](3d_printer_e3d.jpg){: .project-image-medium}
 
 |||
-|------------------|-----------|
-| **Brand**        | TronXY    |
-| **Type**         | Prusa i3  |
-| **Extruder**     | MK8       |
-| **Heated bed**   | yes       |
+|------------------|--------------|
+| **Brand**        | TronXY       |
+| **Type**         | Prusa i3     |
+| **Extruder**     | E3D V6 |
+| **Heated bed**   | yes          |
 | **Firmware**     | [Marlin](https://github.com/erikkallen/Marlin_tronxy)    |
-| **HAL Sensor**   | PL-08N    |
+| **HAL Sensor**   | PL-08N       |
 
+## Calibration
+
+[My calibration steps](3d_printer_calibration.html)
 
 ## Filaments
 
@@ -53,27 +62,7 @@ thumbnail: /images/3d_printing.png
 
 ## Upgrades
 
-#### Heated bed
-
-* I put a piece of cardboard under the heated bed which significantly improved the warmup time.
-
-#### X Carriage
-
-* I printed a replacement X-Idler with tensioning screw from MazaaFIN [X-Idler Thing](http://www.thingiverse.com/thing:1103976)
-
-![Corner piece](x_idler.jpg){: .project-image-medium}
-
-
-#### Y Carriage
-
-* I printed a replacement Y-Idler with tensioning screws from bunjatec [Y-Idler Thing](http://www.thingiverse.com/thing:1298757)
-
-![Corner piece](y_idler.jpg){: .project-image-medium}
-
-#### MK8 Fan air redirect for PETG
-
-* I made an Air redirector because the extruder fan was blowing air on my print and the PETG filament does not like that.
-
+[The upgrades I have done to my printer](3d_printer_upgrades.html)
 
 ## Printed objects
 
