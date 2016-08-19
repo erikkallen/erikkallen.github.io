@@ -8,7 +8,7 @@ categories: iMac late 2012 emc BGA reballing
 My iMac.... I am still a bit sad thinking about it, but never give up thats what I say.
 After a bit of googling I found a service manual of my iMac, which stated that the LED's on the logic board should give you an idea of whats going on. Since none of my LED's lit up the guide stated that there might be something wrong with the power supply (that would make sense right?), so I give my Chinese friend Ali a quick look and 60 Euro's and 1 week later I have a replacement power supply.
 
-First thing to do hook the thing up en plug everything in and... still no freeking LED that lights up. Bummer is wasn't the power supply.
+First thing to do hook the thing up en plug everything in and... still no freeking LED that lights up. Bummer, it wasn't the power supply.
 
 Moving on I came across [Lois Rossmann](https://www.youtube.com/user/rossmanngroup) on youtube when searching on how to repair my iMac and this dude rocks. He has this video where he [replaces the SMC chip an a macbook logic board](https://www.youtube.com/watch?v=D_Eiar3MPck). Since my failure obviously had something to do with power failing and Lois clearly states that it is bullshit to replace the SMC and almost never works I decided to give it a shot :D
 
