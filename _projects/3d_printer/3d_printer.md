@@ -1,9 +1,9 @@
 ---
 layout: project
-title: 3D Printer
+title: 3D Printing
 date: 2016-7-13 22:00
 updated: 2016-7-22 22:00
-description: Making 3d objects a reality.
+description: Think of something, draw it on a computer, print it and now it exists
 thumbnail: /images/3d_printing.png
 ---
 
@@ -24,18 +24,11 @@ Also the fact that you can upgrade, repair, change fiddle and calibrate the devi
 |------------------|--------------|
 | **Brand**        | TronXY       |
 | **Type**         | Prusa i3     |
-| **Extruder**     | E3D V6 |
+| **Extruder**     | E3D V6       |
 | **Heated bed**   | yes          |
 | **Firmware**     | [Marlin](https://github.com/erikkallen/Marlin_tronxy)    |
 | **HAL Sensor**   | PL-08N       |
 
-## Firmware
-
-[The firmware I use on this printer](3d_printer_firmware.html)
-
-## Calibration
-
-[My calibration steps](3d_printer_calibration.html)
 
 ## Filaments
 
@@ -66,7 +59,27 @@ Also the fact that you can upgrade, repair, change fiddle and calibrate the devi
 
 ## Upgrades
 
-[The upgrades I have done to my printer](3d_printer_upgrades.html)
+#### Heated bed
+
+* I put a piece of cardboard under the heated bed which significantly improved the warmup time.
+
+#### X Carriage
+
+* I printed a replacement X-Idler with tensioning screw from MazaaFIN [X-Idler Thing](http://www.thingiverse.com/thing:1103976)
+
+![Corner piece](x_idler.jpg){: .project-image-medium}
+
+
+#### Y Carriage
+
+* I printed a replacement Y-Idler with tensioning screws from bunjatec [Y-Idler Thing](http://www.thingiverse.com/thing:1298757)
+
+![Corner piece](y_idler.jpg){: .project-image-medium}
+
+#### MK8 Fan air redirect for PETG
+
+* I made an Air redirector because the extruder fan was blowing air on my print and the PETG filament does not like that.
+
 
 ## Printed objects
 
