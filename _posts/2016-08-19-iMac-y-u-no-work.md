@@ -27,6 +27,6 @@ So I press the on button aaaaaaand.........nothing DAMN IT!
 
 Back to the drawing board I guess, My next plan of action will be buying the schematics and checking voltages I guess.
 
-TO BE CONTINUED...
+TO BE CONTINUED....
 
 Oh by the way check out my new [printer upgrades](/projects/3d_printer/3d_printer_upgrades.html) while you are on this site.
