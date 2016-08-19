@@ -21,4 +21,5 @@ gems:
 
 # Build settings
 markdown: kramdown
+future: false
 #excerpt_separator: <!--more-->

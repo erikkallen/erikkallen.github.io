@@ -29,6 +29,10 @@ Also the fact that you can upgrade, repair, change fiddle and calibrate the devi
 | **Firmware**     | [Marlin](https://github.com/erikkallen/Marlin_tronxy)    |
 | **HAL Sensor**   | PL-08N       |
 
+## Firmware
+
+[The firmware I use on this printer](3d_printer_firmware.html)
+
 ## Calibration
 
 [My calibration steps](3d_printer_calibration.html)
