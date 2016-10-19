@@ -1,10 +1,11 @@
 ---
-layout: project
 title: Home Automation with Home-assistant.io
-date: 2016-04-28
+date: 2016-04-28 00:00:00 Z
+layout: project
 description: With this project I want to make my house more awesome.
-thumbnail: /images/home_automation.png
+thumbnail: "/images/home_automation.png"
 ---
+
 I finally decided to start using my Rasberry Pi for more than streaming my movie collection.
 So after a quick search on the internet I found an awesome project called [Home assistant](http://home-assistant.io).
 

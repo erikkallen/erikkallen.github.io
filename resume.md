@@ -1,8 +1,9 @@
 ---
-layout: page
 title: Resume
-permalink: /resume/
+permalink: "/resume/"
+layout: page
 ---
+
 ## Contact info
 
 <div style="font-size:20px;">

@@ -1,15 +1,21 @@
 ---
-layout: project_sub
 title: 3D Printer Upgrades
-date: 2016-7-13 22:00
-updated: 2016-7-22 22:00
+date: 2016-07-13 22:00:00 Z
+updated: 2016-10-19 22:00
 description: What upgrades have I done.
-thumbnail: /images/3d_printing.png
+thumbnail: "/images/3d_printing.png"
 sub_page: true
+layout: project_sub
 ---
+
 ## [3D Printer](3d_printer.html) &raquo; upgrades
 
 Here I have a list of all the upgrades I have done to my printer, where possible I will link to the files I used.
+
+#### Silicon heater for hotbed
+
+I switched my hotbed heater from PCB to silicone heater purchased from [AliExpress](https://nl.aliexpress.com/item/1pcs-silicone-heating-pad-heater-220V-200W-200-200mm-for-3d-printer-heat-bed/32590540224.html?spm=2114.13010608.0.0.ixZFo1&detailNewVersion=&categoryId=142001)
+This improved my hotbed warmup time from about 5 min to 2 min for 85&deg;C
 
 #### E3D v6 hotend!
 

@@ -1,10 +1,11 @@
 ---
-layout: project
 title: Wireless (Klik aan Klik uit) dimmer
-date: 2015-10-20
+date: 2015-10-20 00:00:00 Z
+layout: project
 description: With this project I am building a dimmer for my living room lamp.
-thumbnail: /images/dimmer_case.png
+thumbnail: "/images/dimmer_case.png"
 ---
+
 I recently replaced the wall dimmer of my living room lighting with a wireless controlled version.
 This is all very nice but the only way to control the dim factor is with a regular switch or remote.
 
