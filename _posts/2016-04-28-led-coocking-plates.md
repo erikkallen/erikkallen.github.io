@@ -1,8 +1,11 @@
 ---
+title: Mini kitchen with LED cooking top
+date: 2016-04-28 23:11:11 Z
+categories:
+- kitchen
+- led
+- pwm
 layout: post
-title:  "Mini kitchen with LED cooking top"
-date:   2016-04-28 23:11:11
-categories: kitchen led pwm
 ---
 
 Recently I constructed a wooden play kitchen for my daughter.

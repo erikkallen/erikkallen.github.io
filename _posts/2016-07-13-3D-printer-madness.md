@@ -1,8 +1,13 @@
 ---
+title: 3D Printer madness
+date: 2016-07-13 22:11:11 Z
+categories:
+- 3D
+- printer
+- Prusa
+- i3
+- Tronxy
 layout: post
-title:  "3D Printer madness"
-date:   2016-07-13 22:11:11
-categories: 3D printer Prusa i3 Tronxy
 ---
 
 So I decided to buy a 3D printer kit from [Aliexpress](http://aliexpress.com) which is a great site for cheap stuff btw.

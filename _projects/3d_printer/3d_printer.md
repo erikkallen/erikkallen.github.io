@@ -1,10 +1,10 @@
 ---
-layout: project
 title: 3D Printing
-date: 2016-7-13 22:00
+date: 2016-07-13 22:00:00 Z
+layout: project
 updated: 2016-7-22 22:00
 description: Think of something, draw it on a computer, print it and now it exists
-thumbnail: /images/3d_printing.png
+thumbnail: "/images/3d_printing.png"
 ---
 
 I just love 3D printing, I never thought that it would be so much fun, because we have a 3D printer at work but rarely use it, I never gave it too much attention.

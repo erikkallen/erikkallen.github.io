@@ -1,25 +1,31 @@
-# Site settings
+---
 title: Erik Kallen
-#email: info@erikkallen.nl
-description: > # this means to ignore newlines until "baseurl:"
-  This is my personal site with random projects that make up my day aside from my job.
-  I have intersts in metal working, electronics, programming, backyard foundries 3D printing and other ways of tinkering.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://erikkallen.nl" # the base hostname & protocol for your site
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  projects:
+    title: Projects
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+description: 'This is my personal site with random projects that make up my day aside
+  from my job. I have intersts in metal working, electronics, programming, backyard
+  foundries 3D printing and other ways of tinkering.
+
+'
+baseurl: ''
+url: http://erikkallen.nl
 twitter_username: edeuxk
-github_username:  erikkallen
+github_username: erikkallen
 googleplus_username: erikkallen
 linkedin_username: erikkallen
 keybase_username: erikkallen
-collections:
-    projects:
-        output: true
 gems:
-  - jekyll-sitemap
-  - jemoji
-  - jekyll-gist
-
-# Build settings
+- jekyll-sitemap
+- jemoji
+- jekyll-gist
 markdown: kramdown
 future: true
-#excerpt_separator: <!--more-->

@@ -1,8 +1,12 @@
 ---
+title: Raspberry PI as Arduino network programmer
+date: 2014-05-22 23:04:11 Z
+categories:
+- arduino
+- Raspberry
+- Pi
+- programmer
 layout: post
-title:  "Raspberry PI as Arduino network programmer"
-date:   2014-05-22 23:04:11
-categories: arduino Raspberry Pi programmer
 ---
 
 This guide will show you how to program an Arduino connected to your Raspberry PI from  the Arduino IDE on your local computer.

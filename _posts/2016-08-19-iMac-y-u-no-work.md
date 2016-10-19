@@ -1,8 +1,14 @@
 ---
+title: iMac why u no work?
+date: 2016-08-19 22:11:10 Z
+categories:
+- iMac
+- late
+- '2012'
+- SMC
+- BGA
+- reballing
 layout: post
-title:  "iMac why u no work?"
-date:   2016-08-19 22:11:10
-categories: iMac late 2012 SMC BGA reballing
 ---
 
 My iMac.... I am still a bit sad thinking about it, but never give up thats what I say.

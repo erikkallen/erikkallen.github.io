@@ -1,12 +1,13 @@
 ---
-layout: project_sub
 title: 3D Printer firmware
-date: 2016-7-13 22:00
+date: 2016-07-13 22:00:00 Z
+layout: project_sub
 updated: 2016-7-22 22:00
 description: The firmware of my printer.
-thumbnail: /images/3d_printing.png
+thumbnail: "/images/3d_printing.png"
 sub_page: true
 ---
+
 ## [3D Printer](3d_printer.html) &raquo; firmware
 
 ### The original firmware from the supplier:

@@ -1,8 +1,12 @@
 ---
+title: iMac hdd replacement
+date: 2015-11-05 13:18:11 Z
+categories:
+- mac
+- ssh
+- hdd
+- ifixit
 layout: post
-title:  "iMac hdd replacement"
-date:   2015-11-05 13:18:11
-categories: mac ssh hdd ifixit
 ---
 
 Last week I replaced my terribly slow harddisk with a brand new Samsung EVO 850 500GB SSD.

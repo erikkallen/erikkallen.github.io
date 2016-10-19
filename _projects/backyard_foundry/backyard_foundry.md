@@ -1,10 +1,11 @@
 ---
-layout: project
 title: Backyard foundry
-date: 2015-10-20
+date: 2015-10-20 00:00:00 Z
+layout: project
 updated: 2015-11-14 13:18
-description: With this project I try to document my adventure during the build and usage of my foundry.
-thumbnail: /images/foundry_mockup.png
+description: With this project I try to document my adventure during the build and
+  usage of my foundry.
+thumbnail: "/images/foundry_mockup.png"
 ---
 
 The story began when I stumbled upon a Youtube [video](https://www.youtube.com/watch?v=hHD10DjxM1g) from Grant Thompson (The King of Random) where he created his own backyard foundry.
