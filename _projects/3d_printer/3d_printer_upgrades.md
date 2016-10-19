@@ -1,7 +1,7 @@
 ---
 title: 3D Printer Upgrades
 date: 2016-07-13 22:00:00 Z
-updated: 2016-7-22 22:00
+updated: 2016-10-19 22:00
 description: What upgrades have I done.
 thumbnail: "/images/3d_printing.png"
 sub_page: true
