@@ -66,7 +66,7 @@ Also the fact that you can upgrade, repair, change fiddle and calibrate the devi
 
 ## Upgrades
 
-[The number of upgrades is becoming significant so I dedicated a page to them](projects/3d_printer/3d_printer_upgrades.html) 
+[The number of upgrades is becoming significant so I dedicated a page to them](3d_printer_upgrades.html) 
 
 ## Printed objects
 
