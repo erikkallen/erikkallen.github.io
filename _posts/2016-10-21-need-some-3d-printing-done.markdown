@@ -1,6 +1,11 @@
 ---
 title: Need some 3D printing done?
 date: 2016-10-21 18:50:00 Z
+categories:
+- 3d printing
+- 3d hubs
+tags:
+- 3d printer
 ---
 
 Yess, my very own 3D Printing hub is alive!
