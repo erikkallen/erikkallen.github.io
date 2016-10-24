@@ -8,7 +8,7 @@ layout: page
 Please use one of the social networks to get in touch with me.
 
 <div style="font-size:20px;">
-<a href="https://keybase.io/erikkallen"><i class="fc fc-keybase"></i></a> <a href="https://plus.google.com/+ErikKallen"><i class="fa fa-google-plus"></i></a> <a href="https://twitter.com/edeuxk"><i class="fa fa-twitter"></i></a>
+<a href="https://plus.google.com/+ErikKallen"><i class="fa fa-google-plus"></i></a> <a href="https://twitter.com/edeuxk"><i class="fa fa-twitter"></i></a>
 <a href="https://github.com/erikkallen"><i class="fa fa-github"></i></a>
 <a href="https://www.linkedin.com/in/erikkallen"><i class="fa fa-linkedin"></i></a>
 </div>
