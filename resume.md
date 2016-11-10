@@ -26,7 +26,7 @@ Please use one of the social networks to get in touch with me.
 * Coding in various (scripting) languages and frameworks, like C, C++, Ruby, Javascript, Java, HTML, CSS, Markdown, QT (C++), Ruby on Rails, AngularJS
 * Broad knowledge of programming from low level microcontroller, ARM based systems to high level (web) application.
 * Designing and programming embedded systems, porting existing code to embedded systems driver programming.
-* Knowledge of various operating systems like Linux, OS X, RTOS and Windows
+* Knowledge of various operating systems like Buildroot/Linux, OS X, RTOS and Windows
 * Basic knowledge of hardware engineering (reading datasheets, SMD soldering, electrical components)
 * Experience with new technologies like [Lora](https://www.lora-alliance.org/) (designing and programming of lora node)
 
