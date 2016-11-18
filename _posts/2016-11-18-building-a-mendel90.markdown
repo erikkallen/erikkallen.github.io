@@ -23,6 +23,12 @@ I bought 5 [nema 17 stepper motors](https://nl.aliexpress.com/item/5PCS-59Ncm-84
 ![axis_build](images/axis_build.jpg){: .project-image-medium .rounded}
 ![Y carriage](images/y-carriage.jpg){: .project-image-medium .rounded}
 
+Now for attaching the threaded rods to the z-axis motors I needed couplers, which I did not have at hand and since ordering them from china takes 3 weeks I decided to make my own. It was a good way to test my new mini lathe :D
+
+![coupler_lathe](images/coupler_lathe.jpg){: .project-image-medium .rounded}
+
+Thanks to my father in law I now have a simple tapping set as well, which I used to tap the holes with.
+
 ![stepper_motors](images/stepper_motors.jpg){: .project-image-medium .rounded}
 ![mounted carriage](images/mounted_carriage.jpg){: .project-image-medium  .rounded}
 
@@ -32,3 +38,6 @@ Be careful when connecting them though my melzy board for some reason supplies 1
 
 After adding some wires I could finally test if the thing moves at all and what do you know it works and even homes!
 So thats is my progress up to now, I still have some work to do with the hotend and cleaning up the wiring but I hope to post a first print soon!
+
+![initial wiring](images/initial_wiring.jpg){: .project-image-medium  .rounded}
+![net entry](images/net_entry.jpg){: .project-image-medium .rounded}
