@@ -7,7 +7,7 @@ categories:
 - hdd
 - ifixit
 layout: post
-image: /images/opened_imac.jpg
+image: "/images/opened_imac.jpg"
 ---
 
 Last week I replaced my terribly slow harddisk with a brand new Samsung EVO 850 500GB SSD.

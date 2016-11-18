@@ -6,7 +6,7 @@ categories:
 - 3d hubs
 tags:
 - 3d printer
-image: /uploads/Screen%20Shot%202016-10-21%20at%2021.12.12.png
+image: "/uploads/Screen%20Shot%202016-10-21%20at%2021.12.12.png"
 ---
 
 Yess, my very own 3D Printing hub is alive!
