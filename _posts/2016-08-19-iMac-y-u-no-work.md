@@ -9,7 +9,7 @@ categories:
 - BGA
 - reballing
 layout: post
-image: /images/reballed.jpg
+image: "/images/reballed.jpg"
 ---
 
 My iMac.... I am still a bit sad thinking about it, but never give up thats what I say.

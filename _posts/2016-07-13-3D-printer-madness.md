@@ -8,7 +8,7 @@ categories:
 - i3
 - Tronxy
 layout: post
-image: /images/3d_printer_box.jpg
+image: "/images/3d_printer_box.jpg"
 ---
 
 So I decided to buy a 3D printer kit from [Aliexpress](http://aliexpress.com) which is a great site for cheap stuff btw.

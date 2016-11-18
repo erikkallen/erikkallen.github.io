@@ -6,7 +6,7 @@ categories:
 - led
 - pwm
 layout: post
-image: /images/play_kitchen_led.jpg
+image: "/images/play_kitchen_led.jpg"
 ---
 
 Recently I constructed a wooden play kitchen for my daughter.
