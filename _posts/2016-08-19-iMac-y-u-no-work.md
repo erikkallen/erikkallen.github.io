@@ -9,6 +9,7 @@ categories:
 - BGA
 - reballing
 layout: post
+image: /images/reballed.jpg
 ---
 
 My iMac.... I am still a bit sad thinking about it, but never give up thats what I say.
@@ -20,11 +21,11 @@ Moving on I came across [Lois Rossmann](https://www.youtube.com/user/rossmanngro
 
 I hit Ali up once more and 20 Euro and 3 weeks later I receive a piece of cut logic board with a SMC and a solder stencil.
 
-![SMC and Stencil](/images/smc_and_stencil.jpg){: .project-image-medium}
+![SMC and Stencil](/images/smc_and_stencil.jpg){: .project-image-medium .rounded}
 
 Next is off with the old, reball the BGA (took me 4 tries but hey I had never done it before) and on with the new (or second hand in this case).
 
-![Reballed SMC](/images/reballed.jpg){: .project-image-medium}
+![Reballed SMC](/images/reballed.jpg){: .project-image-medium .rounded }
 
 isn't she pretty!
 

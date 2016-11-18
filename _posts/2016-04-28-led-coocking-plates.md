@@ -6,6 +6,7 @@ categories:
 - led
 - pwm
 layout: post
+image: /images/play_kitchen_led.jpg
 ---
 
 Recently I constructed a wooden play kitchen for my daughter.
@@ -13,7 +14,7 @@ The kitchen came as a self build package.
 
 After quite a bit of sanding and a few extra screws I had the basic structure ready
 
-![Building basic structure](/images/basic_structure.jpg){: .multiple-borders .project-image-medium}
+![Building basic structure](/images/basic_structure.jpg){: .rounded .project-image-medium}
 
 Of course beeing an engineer this is when the fun stuff started, so I decided to make a few changes to the plan.
 First I bought some 0804 Red SMD led's off ebay, next I went to the local plastic plate supplier and picked up a tinted plate of 30 x 40 x 0.5 cm, and finally got some long shaft 10k potentiometers. I still had an Arduino mini laying around and some proto PCB.
@@ -22,19 +23,19 @@ The schematics for the board can be found [here](/images/keuken_ailynn_schema.pd
 
 This is what it kind of looks like on a breadboard
 
-![Breadboard view](/images/keuken_ailynn_bb.png){: .project-image-medium}
+![Breadboard view](/images/keuken_ailynn_bb.png){: .project-image-medium .rounded}
 
 So I soldered one hot plate up to see if it has the desired effect and luckily it was to my liking.
 
-![LED Test](/images/led_test.jpg){: .multiple-borders .project-image-medium}
+![LED Test](/images/led_test.jpg){: .rounded .project-image-medium}
 
 What remained was to do the other 3 plates and the front panel controls.
 
-![Front panel controls](/images/front_panel_controls.jpg){: .multiple-borders .project-image-medium}
+![Front panel controls](/images/front_panel_controls.jpg){: .rounded .project-image-medium}
 
 All that was left to do was mount the assembly and behold! we have a working stove.
 
-![Play kitchen](/images/play_kitchen_led.jpg){: .multiple-borders}
+![Play kitchen](/images/play_kitchen_led.jpg){: .rounded}
 
 To save power I run the Arduino on a 1 MHz clock instead of the default of 8 MHz
 
