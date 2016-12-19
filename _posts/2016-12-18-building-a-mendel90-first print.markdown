@@ -1,11 +1,11 @@
 ---
 title: Mendel90 first print!
-date: 2016-11-18 18:50:00 Z
+date: 2016-12-18 18:50:00 Z
 categories:
 - 3d printing
 tags:
 - 3d printer
-image: images/y-carriage.jpg
+image: images/first-print-cube.jpg
 ---
 
 There is always that scary thought when first switching on a printer of which you have just spend a couple of hours doing the wiring and it's getting late. You wonder if you made a mistake... yet you are in to deep so you try anyway. Flick the switch and watch for any magic smoke or popcorn sounds........
