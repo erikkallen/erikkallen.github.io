@@ -4,81 +4,102 @@ permalink: "/resume/"
 layout: page
 ---
 
-## Contact info
-Please use one of the social networks to get in touch with me.
+## Contact
 
-<div style="font-size:20px;">
-<a href="https://plus.google.com/+ErikKallen"><i class="fa fa-google-plus"></i></a> <a href="https://twitter.com/edeuxk"><i class="fa fa-twitter"></i></a>
-<a href="https://github.com/erikkallen"><i class="fa fa-github"></i></a>
-<a href="https://www.linkedin.com/in/erikkallen"><i class="fa fa-linkedin"></i></a>
-</div>
+<a href="https://github.com/erikkallen">GitHub</a> &middot;
+<a href="https://www.linkedin.com/in/erikkallen">LinkedIn</a> &middot;
+<a href="https://twitter.com/edeuxk">Twitter</a> &middot;
+<a href="https://keybase.io/erikkallen">Keybase</a>
 
-## Skills and abilities
+## Summary
 
-### Personal skills
-* Hard working
-* Fast learner
-* Creative and Problem solving
-* Can work under pressure
+Software and embedded systems engineer with over 15 years of experience spanning low-level microcontroller firmware, embedded Linux, cloud-connected systems, and full-stack web development. Currently leading an embedded and cloud integration team at a Dutch energy-tech company. Co-founder of an engineering products company. Comfortable working across the full stack from silicon to browser, and from prototype to production.
 
+## Technical Skills
 
-### Technical skills
-* Coding in various (scripting) languages and frameworks, like C, C++, Ruby, Javascript, Java, HTML, CSS, Markdown, QT (C++), Ruby on Rails, AngularJS, websockets and nodejs
-* Broad knowledge of programming from low level microcontroller, ARM based systems to high level (web) application.
-* Designing and programming embedded systems, porting existing code to embedded systems driver programming.
-* Knowledge of various operating systems like Buildroot, Linux, OS X, RTOS and Windows
-* Basic knowledge of hardware engineering (reading datasheets, SMD soldering, electrical components)
-* Experience with new technologies like [Lora](https://www.lora-alliance.org/) (designing and programming of lora node)
+* **Languages & frameworks:** C, C++, Ruby, JavaScript, Java, HTML/CSS, Ruby on Rails, Node.js, AngularJS, WebSockets
+* **Embedded & OS:** ARM Cortex-M, Allwinner H3, Buildroot, Linux, RTOS, Zephyr, bare-metal firmware
+* **Connectivity:** BLE, LoRa, 3G/cellular, Ethernet, UART, SPI, I²C
+* **Hardware:** PCB design, SMD soldering, FPGA, schematic reading, sensor interfacing
+* **Tools & practices:** Git, cloud-connected production tooling, remote monitoring systems, test & calibration automation
 
-<div style="page-break-after: always;"></div>
+## Language Skills
 
-### Language skills
-* Dutch, excellent both written and oral
-* English, excellent both written and oral
-* German, good oral and reading, a bit rusty when writing
-* Swiss german, ok oral, writing not applicable 
+* Dutch — native
+* English — professional proficiency (written and spoken)
+* German — professional reading/speaking; limited written
 
-## Education and training
-* Hanzehogeschool, Groningen (NL) — Bachelor of ICT, graduated in 2009
-* Communitech, Kitchener (CA) - Business fundamentals course, 2015
+## Education
+
+* **Hanzehogeschool, Groningen (NL)** — Bachelor of ICT, 2009
+* **Communitech, Kitchener (CA)** — Business Fundamentals, 2015
 
 ## Experience
 
-### Engineer at Ingu Solutions, Kitchener (CA) — April 2015 - August 2015
-* Setting up an office in Waterloo Canada (Skills: People skills, networking, independent working)
-* Responsible for recruiting hiring and mentoring of co-op students  
-  (**Skills**: People skills, people insight)
-* Responsible for developing the second revision of the Xploring WiseMote product by finding manufacturers parts, updating the firmware and readout software.  
-  (**Skills**: C, PCB manufacturing, 3D Cad design, prototyping)
+### Team Lead — Asset Control & Integration at Zonneplan, Amsterdam (NL) — Present
 
-### Engineer at INCAS3, Assen (NL) — July 2009 - Present
-* Applying sensor technology to real world applications.
-* I was responsible for adapting/creating the firmware and interface on a high end network sound device  
-  (**Skills**: RTOS, buildroot and QT)
-* Created the web interface and spectrum fitting analisys software for a full spectrum radiation detector  
-(**Skills**: C/C++, nodejs, buildroot, websockets various javascript libraires, linux kernel driver programming and Ruby on Rails).
-* Taught embedded Java and C classes at the university (HIT) in Assen (NL).
-* Designed, developed and deployed remote monitoring system in Northern Saskatchewan  
-(**Skills**: Hands on troubleshooting, C/C++, buildroot, 3G modem using pppd, robust programming, engineerd to tough conditions (-40, 80&deg;C), Ruby on rails)
-* Designed and programmed a sensor readout stack, based on low power Atmel coretex M0+, which stacking features for sensor boards, power controller/solar charger, modem board and lora board.  
-(**Skills**: C, Ruby on rails)
-* Design and firmware of a miniature sensor ball, with motion sensors and sd card storage and temperature sensor.  
-(**Skills**: C)
+Zonneplan is a Dutch energy company offering solar, home batteries and smart energy management.
 
-### Co owner at Bazingalabs, Groningen (NL) — April 2011 - June 2014
-* Development of prototype boards for wireless hobby electronics based on the Arduino platform for creating your own internet of things at home.  
-(**Skills**: Business development, C, websites, soldering, bootloaders)
+* Leading the Asset Control & Integration team, responsible for firmware, cloud connectivity and production of smart energy hardware.
+* Played a key role in firmware development for the Zonneplan Smart Grid Node.
+* Played a key role in the technical implementation of the first home battery product launch.
+* Responsible for ramping up Smart Grid Node production, covering quality, tooling and manufacturing scale-up.  
+  (**Skills**: Zephyr RTOS, embedded firmware, GitHub CI/CD, production ramp-up, team leadership)
 
-### Engineer at Rosnes Sensor Solutions, Assen (NL) — February 2009 - July 2009
-* Prototyped a wireless sensor for detecting parked and moving cars.  
-(**Skills**: C, Sensor interfacing, 433MHz radio's)
+### Co-Founder at EVAbits, Groningen (NL) — April 2017 – Present
 
-### Student at Hanzehogeschool, Groningen (NL) — 2005 - 2009
-Projects at school include:
+EVAbits is a hardware and embedded software engineering company ("Testing Makes Perfect") offering both product development and engineering services.
 
-* Creating simulation software for managing taxi routes for a taxi company  
-(**Skills**: Java, Algorithms)
-* Designing, setting up and configuring a network for a school.  
-(**Skills**: networking, switch management, server management)
-* Creating a Skype like application in a linux terminal.  
-(**Skills**: C, gstreamer)
+* Co-founded the company with two former colleagues; responsible for product architecture, embedded firmware, and engineering services delivery.
+* Designed and built **EVAjig**: a cloud-native, turnkey platform for PCBA testing, programming and provisioning that streamlines electronics manufacturing workflows.
+* Delivers engineering services including FPGA-based parallel processing, embedded Linux, Zephyr RTOS, wireless communication, and in-house PCB design and manufacturing.  
+  (**Skills**: business development, embedded firmware, cloud integration, PCB design, FPGA, Zephyr RTOS)
+
+### Software Engineer at Diagnoptics, Groningen (NL) — January 2017 – May 2019
+
+Diagnoptics develops medical diagnostic instruments for non-invasive assessment of tissue glycation.
+
+* Developed embedded firmware for the new Bluetooth-connected age reader device.  
+  (**Skills**: C, BLE, embedded systems)
+* Rebuilt the testing and calibration tooling, adding a cloud-connected tracking system for production traceability and quality control.  
+  (**Skills**: cloud integration, production tooling, calibration systems)
+
+### Senior Engineer at INCAS3, Assen (NL) — July 2009 – January 2017
+
+INCAS3 applied sensor technology to real-world industrial and environmental monitoring applications.
+
+* Adapted firmware and Qt-based interface for a high-end networked audio device.  
+  (**Skills**: RTOS, Buildroot, Qt/C++)
+* Built a web interface and spectrum-fitting analysis tool for a full-spectrum radiation detector.  
+  (**Skills**: C/C++, Node.js, Buildroot, WebSockets, JavaScript, Linux kernel drivers, Ruby on Rails)
+* Taught embedded Java and C courses at HIT University, Assen.
+* Designed, deployed and maintained a remote environmental monitoring system in Northern Saskatchewan, engineered to operate at −40 °C to +80 °C.  
+  (**Skills**: C/C++, Buildroot, 3G/pppd, Ruby on Rails, robust field engineering)
+* Designed a low-power sensor readout stack based on Atmel Cortex-M0+, supporting stackable sensor, power/solar-charger, modem and LoRa boards.  
+  (**Skills**: C, Ruby on Rails, LoRa)
+* Designed and built a miniature sensor ball with motion sensors, SD card storage and temperature logging.  
+  (**Skills**: C, embedded hardware)
+
+### Engineer at Ingu Solutions, Kitchener (CA) — April 2015 – August 2015
+
+* Established the Waterloo, Canada office; responsible for recruiting, hiring and mentoring of co-op students.
+* Led development of the second revision of the Xploring WiseMote product: sourced components, updated firmware and readout software.  
+  (**Skills**: C, PCB manufacturing, 3D CAD, prototyping)
+
+### Co-Founder at Bazingalabs, Groningen (NL) — April 2011 – June 2014
+
+* Developed prototype boards for wireless hobby electronics based on the Arduino platform, targeting home IoT applications.  
+  (**Skills**: business development, C, web development, PCB soldering, bootloaders)
+
+### Engineer at Rosnes Sensor Solutions, Assen (NL) — February 2009 – July 2009
+
+* Prototyped a wireless sensor for detecting parked and moving vehicles.  
+  (**Skills**: C, sensor interfacing, 433 MHz radio)
+
+### Student at Hanzehogeschool, Groningen (NL) — 2005 – 2009
+
+Notable projects:
+
+* Route optimisation simulation for a taxi company (**Skills**: Java, algorithms)
+* Network design, setup and configuration for a school (**Skills**: networking, switch/server management)
+* Terminal-based VoIP application (**Skills**: C, GStreamer)
