@@ -36,7 +36,7 @@ Software and embedded systems engineer with over 15 years of experience spanning
 
 ## Experience
 
-### Team Lead — Asset Control & Integration at Zonneplan, Amsterdam (NL) — Present
+### Team Lead — Asset Control & Integration at Zonneplan, Zwolle (NL) — Present
 
 Zonneplan is a Dutch energy company offering solar, home batteries and smart energy management.
 
