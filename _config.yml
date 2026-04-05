@@ -17,13 +17,13 @@ description: 'This is my personal site with random projects that make up my day 
 
 '
 baseurl: ''
-url: http://erikkallen.nl
+url: https://erikkallen.nl
 twitter_username: edeuxk
 github_username: erikkallen
 googleplus_username: erikkallen
 linkedin_username: erikkallen
 keybase_username: erikkallen
-gems:
+plugins:
 - jekyll-sitemap
 - jemoji
 - jekyll-gist
