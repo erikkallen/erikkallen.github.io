@@ -32,13 +32,13 @@ bundle exec jekyll build
 - `page.html` — For standalone pages.
 - `project.html` / `project_sub.html` — For project pages and their sub-pages.
 
-**Styles** (`_sass/`): Sass partials compiled into site CSS. `_variables.scss` holds shared variables; `_base.scss` holds global styles; `_syntax-highlighting.scss` handles code blocks.
+**Styles**: Tailwind CSS is loaded via CDN (`?plugins=typography`) in `_includes/head.html`. The Tailwind typography `prose` class is used for all post/page/project body content. `css/main.scss` compiles only `_sass/_syntax-highlighting.scss` (for Rouge code blocks) plus legacy image utility classes (`.project-image`, `.project-image-medium`, etc.).
 
 **Projects index** (`projects.md`): Iterates `site.projects`, showing only entries where `sub_page` is null or false, rendering a thumbnail image and link.
 
 ## Content conventions
 
-- Images for a post are typically stored in an `images/` directory at the root and referenced as `images/filename.jpg` in Markdown.
+- Images for a post are stored in the `images/` directory at the root and **must** be referenced with an absolute path: `/images/filename.jpg`. Relative paths (`images/filename.jpg`) break when posts are served at category-prefixed URLs.
 - Project images live alongside the project's `.md` file in its subdirectory.
 - `_config.yml` sets `future: true` so posts with future dates are still built.
 - Markdown renderer is kramdown.

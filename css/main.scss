@@ -2,56 +2,25 @@
 ---
 
 @charset "utf-8";
-@import "fonts";
 
+/* Placeholder required by _syntax-highlighting.scss */
+%vertical-rhythm { margin-bottom: 1rem; }
 
-// Our variables
-$base-font-family: Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
-$small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
+/* Syntax highlighting for Jekyll/Rouge code blocks */
+@import "syntax-highlighting";
 
-$spacing-unit:     30px;
+/* Image utilities used in posts */
+.rounded { border-radius: 0.375rem; }
+.project-image { width: 150px; float: left; }
+.project-image-medium { width: min(450px, 100%); }
+.project-image-small { width: 100px; }
+.pull-left { float: left; }
+.pull-right { float: right; }
+.image-center { margin: 0 auto; }
 
-$text-color:       #111;
-$background-color: #ffffff;
-// #fdfdfd;
-$brand-color:      #2a7ae2;
-
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
-
-// Width of the content area
-$content-width:    1000px;
-
-$on-palm:          600px;
-$on-laptop:        800px;
-
-
-
-// Using media queries with like this:
-// @include media-query($on-palm) {
-//     .wrapper {
-//         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
-//     }
-// }
-@mixin media-query($device) {
-    @media screen and (max-width: $device) {
-        @content;
-    }
-}
-
-
-
-// Import partials from `sass_dir` (defaults to `_sass`)
-@import
-        "base",
-        "layout",
-        "syntax-highlighting"
-;
-
-.rounded {
-    border-radius: 5px;
-}
+/* Ensure highlight/code blocks look right inside prose */
+.prose .highlight { max-width: none; }
+.prose pre { background-color: #181818 !important; color: #f9fafb; }
+.prose code { background-color: #111827; color: #f9fafb; }
+.prose code::before { content: "" !important; }
+.prose code::after  { content: "" !important; }

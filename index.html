@@ -2,40 +2,26 @@
 layout: default
 ---
 
-<h1 class="post-title">Blog</h1>
-<div class="home pull-left">
+<section>
+  <h1 class="text-3xl font-bold tracking-tight text-gray-900 mb-8">Blog</h1>
 
-  <ul class="post-list">
+  <ul class="space-y-4">
     {% for post in site.posts %}
-      <li>
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} <small class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</small></a>
-        </h2>
-      {% if post == site.posts.first %}
-        {{ post.content }}
-      {% else %}
+    <li class="bg-white rounded-xl border border-gray-200 hover:shadow-md transition-shadow">
+      <a href="{{ post.url | prepend: site.baseurl }}" class="block p-6 group" style="text-decoration:none">
+        <div class="flex items-start justify-between gap-4">
+          <h2 class="text-lg font-semibold text-gray-900 group-hover:text-blue-600 transition-colors">{{ post.title }}</h2>
+          <time class="text-sm text-gray-400 shrink-0 pt-0.5">{{ post.date | date: "%b %-d, %Y" }}</time>
+        </div>
         {% if post.excerpt %}
-            {% if post.image %}
-            <img src="{{ post.image | prepend: site.baseurl }}" class="project-image-small rounded" style="float: left; margin-right: 20px">
-            {% endif %}
-            {{ post.excerpt }} <a href="{{ post.url | prepend: site.baseurl }}">read more</a>
+        <p class="mt-2 text-gray-500 text-sm leading-relaxed">{{ post.excerpt | strip_html | truncate: 200 }}</p>
         {% endif %}
-      {% endif %}
-      </li>
+      </a>
+    </li>
     {% endfor %}
   </ul>
 
-
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-</div>
-
-
-<!--
-<div class="pull-right">
-    {% for project in site.projects %}
-      <a href="{{ project.directory | prepend: site.baseurl }}">{{ project.title }}</a><br>
-    {% endfor %}
-</div>
--->
+  <p class="mt-10 text-sm text-gray-400">
+    Subscribe <a href="{{ '/feed.xml' | prepend: site.baseurl }}" class="text-blue-600 hover:underline">via RSS</a>
+  </p>
+</section>

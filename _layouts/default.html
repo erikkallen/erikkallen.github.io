@@ -1,19 +1,25 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
   {% include head.html %}
 
-  <body>
+  <body class="bg-gray-50 text-gray-800 min-h-screen flex flex-col">
 
     {% include header.html %}
 
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </div>
+    <main class="flex-1 w-full max-w-4xl mx-auto px-4 sm:px-6 py-10">
+      {{ content }}
+    </main>
 
     {% include footer.html %}
+
+    <script>
+      const btn = document.getElementById('menu-btn');
+      const menu = document.getElementById('mobile-menu');
+      if (btn && menu) {
+        btn.addEventListener('click', () => menu.classList.toggle('hidden'));
+      }
+    </script>
 
   </body>
 

@@ -12,7 +12,7 @@ There is always that scary thought when first switching on a printer of which yo
 
 W00t! no smoke no wierd sounds, so fire up pronterface and see if it heats up. In this case it did, so I pulled out my spool of PLA, and sliced a simple cube with pretty much default settings and low and behold filament gets extruded and the result even looks like a cube!
 
-![initial wiring](images/first-print-cube.jpg){: .project-image-medium  .rounded}
+![initial wiring](/images/first-print-cube.jpg){: .project-image-medium  .rounded}
 
 After a couple of prints and some fine tuning the result is actually quite pleasing, PETG sticks to the plain glass very well and looks super smooth.
 The machine is very consistent and requires no adjustment between prints.
